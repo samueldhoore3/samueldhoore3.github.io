@@ -33,7 +33,7 @@
         display: inline-block;
         position: relative;
         z-index: 1;
-        padding: 2em 4em;
+        padding: 2em 0em;
     }
 
 }
@@ -75,5 +75,5 @@
         z-index: 1;
         padding: 2em 4em;
     }
-    
+
 }
