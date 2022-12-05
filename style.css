@@ -1,0 +1,28 @@
+/* MOBILE */
+@media only screen and (max-width:769px){
+
+    body {
+    padding: 5rem;
+    font-family: arial;
+    }
+
+    ul {
+    list-style-type: none;
+    padding: 0;
+    }
+    a, a:visited {
+    text-decoration: none;
+    color: blue;
+    }
+
+    a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+    }
+
+}
+
+/* DESKTOP */
+@media only screen and (min-width:769px){
+
+}
