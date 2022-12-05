@@ -50,6 +50,11 @@
         letter-spacing: .1rem;
     }
 
+    .wrapper {
+        width: 50%;
+       margin: auto;
+    }
+    
     h1 {
         text-align: center;
         letter-spacing: 1rem;
