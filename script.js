@@ -6,15 +6,6 @@
     el.innerHTML = "/" + Array(i + 1).join('.');
   }, 600);
 
-// slide overlay
-  function openNav() {
-    document.getElementById("myNav").style.width = "100%";
-  }
-
-  function closeNav() {
-    document.getElementById("myNav").style.width = "0%";
-  }
-
 //play pause audio
   var myAudio = document.getElementById("myAudio");
   var isPlaying = false;
