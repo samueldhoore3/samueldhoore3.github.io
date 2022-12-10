@@ -1,7 +1,21 @@
-
+@import url('https://themes.googleusercontent.com/fonts/css?kit=0q-JaFCJuohwd-2kjlPMqg');
 /********************************************************************************************************************************/
 /* GENERAL */
 /********************************************************************************************************************************/
+
+body {
+    font-family: "Montserrat";
+    line-height: 1.5;
+}
+
+a {
+    padding-bottom: 2rem;
+    width: 100%;
+    display: block;
+    justify-content: center;
+    display: flex;
+}
+
 img {
     width: 100%;
     cursor: pointer;
